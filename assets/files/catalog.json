@@ -1,0 +1,23 @@
+{
+    "products":[
+
+        {
+            "id":1,
+            "name":"Dyslexia",
+            "desc":"this is a game to dignose if you have dyslexia"
+
+        },
+        {
+            "id":2,
+            "name":"ADHD",
+            "desc":"this is a game to dignose if you have ADHD"
+
+        },
+        {
+            "id":3,
+            "name":"Discalculia",
+            "desc":"this is a game to dignose if you have Discalculia"
+
+        }
+    ]
+}
